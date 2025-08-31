@@ -1,0 +1,22 @@
+<addons>
+  <addon id="plugin.video.fangpt" name="FanGPT" version="2025.08.17" provider-name="FFmodGPT5">
+    <requires>
+      <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.metadata">
+      <summary>FanGPT</summary>
+      <description>Twoja wtyczka FanGPT</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+  <addon id="plugin.video.ptw-gpt" name="PTW GPT" version="2025.08.17" provider-name="FFmodGPT5">
+    <requires>
+      <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.metadata">
+      <summary>PTW GPT</summary>
+      <description>Twoja wtyczka PTW GPT</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+</addons>
